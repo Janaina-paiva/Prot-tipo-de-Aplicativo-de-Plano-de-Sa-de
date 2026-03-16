@@ -1,13 +1,40 @@
-# Prot-tipo-de-Aplicativo-de-Plano-de-Sa-de
-O foco desta entrega é a Arquitetura de Informação e a Navegabilidade, garantindo que o usuário consiga chegar ao seu objetivo por diferentes fluxos.
+# 🏥 Protótipo de Aplicativo: Plano de Saúde Digital
 
+> **Status do Projeto:** 🚀 Concluído (Atividade Acadêmica - 2º Semestre ADS)
 
-Título do Projeto: Protótipo de Aplicativo de Plano de Saúde.
+## 📋 Sobre o Projeto
+Este repositório contém o **Wireframe de Baixa Fidelidade** de um aplicativo de Plano de Saúde, desenvolvido no **Figma**. O objetivo principal é demonstrar a estruturação da Arquitetura de Informação e o design de interação focado na experiência do usuário (UX).
 
-Objetivo: Facilitar o agendamento de consultas e acesso à rede credenciada.
+O projeto foi planejado para oferecer uma interface limpa, funcional e intuitiva, permitindo que o usuário realize tarefas essenciais com o mínimo de esforço.
 
-Detalhamento: Explique quem é o usuário e qual problema você está resolvendo.
+---
 
-Os Dois Caminhos: Descreva passo a passo como realizar a tarefa principal pelos dois fluxos diferentes que você criou.
+## 🚀 Entregáveis Obrigatórios
 
-Link do Figma: https://www.figma.com/proto/0mv4mjfcwBuuy97i377Eaq/Plano-de-Sa%C3%BAde?node-id=1-3&starting-point-node-id=1%3A3&hotspot-hints=0&t=52Vemb3SsPW0Y6Re-1
+### 🔹 Wireframe & Fluxo Navegável
+Desenvolvido inteiramente no Figma, o protótipo foca na estrutura lógica (Low-Fi) e na navegabilidade entre telas.
+
+### 🔹 Caminhos de Navegação (Task Flow)
+Para validar a flexibilidade da interface, foram criados **dois caminhos distintos** para a mesma tarefa principal:
+
+1.  **Caminho A (Fluxo Rápido):** Acesso direto via botão de ação na *Home Screen*.
+2.  **Caminho B (Fluxo Hierárquico):** Navegação estruturada através do *Menu Lateral > Serviços > Agendamentos*.
+
+---
+
+## 🔗 Protótipo Interativo
+Para visualizar e interagir com o fluxo completo no Figma, clique no link abaixo:
+
+👉 **[Visualizar Protótipo Navegável no Figma](https://www.figma.com/proto/0mv4mjfcwBuuy97i377Eaq/Plano-de-Sa%C3%BAde?node-id=1-3&starting-point-node-id=1%3A3&hotspot-hints=0&t=52Vemb3SsPW0Y6Re-1)**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+* **Figma:** Design de interface e prototipagem interativa.
+* **Markdown:** Documentação do projeto.
+* **GitHub:** Versionamento e exposição do portfólio.
+
+---
+
+## 👤 Autor
+**Janaina Nascimento Paiva** *Estudante de Análise e Desenvolvimento de Sistemas*
